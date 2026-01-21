@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**x1271044523-ui/x1271044523-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ballauma/Ballauma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,17 +31,17 @@ Here are some ideas to get you started:
   <br/> <br/>
 
   <!-- 3. 数据统计卡片 (并排显示) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=x1271044523-ui&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1271044523-ui&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ballauma&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ballauma&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
   <br/>
 
   <!-- 4. 连续打卡 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x1271044523-ui&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ballauma&theme=tokyonight&hide_border=true" />
 
   <br/>
   
   <!-- 5. 访客数 -->
-  ![Visitor Count](https://komarev.com/ghpvc/?username=x1271044523-ui&label=Visitors&color=0e75b6&style=flat)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Ballauma&label=Visitors&color=0e75b6&style=flat)
 
 </div>
